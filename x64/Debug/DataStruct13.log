@@ -1,0 +1,9 @@
+﻿  DataStruct13.cpp
+C:\Users\2021 EN\source\repos\DataStruct13\clsString.h(44,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\DataStruct13\clsString.h(49,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\DataStruct13\clsString.h(61,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\DataStruct13\clsString.h(198,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\DataStruct13\clsString.h(329,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\DataStruct13\clsString.h(377,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\DataStruct13\clsQueueLine.h(108,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  DataStruct13.vcxproj -> C:\Users\2021 EN\source\repos\DataStruct13\x64\Debug\DataStruct13.exe
